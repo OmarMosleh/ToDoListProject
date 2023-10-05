@@ -4,7 +4,7 @@
 a web-based application developed using HTML, CSS, and JavaScript. It allows users to create and manage their to-do lists easily.
 
 # Live preview
-https://OmarMosleh.github.io/ToDoListProject.git 
+https://OmarMosleh.github.io/ToDoListProject/
 # Design
 
 ![Design preview for the laptop](./design/home%20page.png)
